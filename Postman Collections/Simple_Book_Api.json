@@ -411,7 +411,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "81542a51-328e-48f2-809c-61e82d3b8881",
+				"id": "a0d1420d-b20a-409c-9fe6-f504965dd558",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -421,7 +421,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "1b157f70-a893-4b4a-9682-34de18bddbbc",
+				"id": "c83f8c45-da01-4fe5-b38a-6464d7d10aa6",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -437,6 +437,11 @@
 		{
 			"key": "accessToken",
 			"value": "a16e0056a6e66682a3bcdacd668105e39870b641d458f0b3ec1151dbe95124d7",
+			"type": "string"
+		},
+		{
+			"key": "orderId",
+			"value": "",
 			"type": "string"
 		}
 	]
